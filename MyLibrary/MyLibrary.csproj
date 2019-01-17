@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Authors>JanD</Authors>
+    <Company>Jan Daniel Andersen</Company>
+    <Copyright>Luk røven</Copyright>
+    <PackageId>Hest-MyLibrary</PackageId>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Version>1.0.3</Version>
+  </PropertyGroup>
+
+</Project>

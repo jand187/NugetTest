@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Hest-MyLibrary</id>
+    <version>1.0.2</version>
+    <authors>JanD</authors>
+    <owners>JanD</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <copyright>Luk røven</copyright>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\git\jand\NugetTest\MyLibrary\bin\Debug\netcoreapp2.2\MyLibrary.dll" target="lib\netcoreapp2.2\MyLibrary.dll" />
+  </files>
+</package>
